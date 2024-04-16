@@ -1,6 +1,14 @@
-# React Component to Image
+![image](https://github.com/aidrecabrera/react-component-to-image/assets/61798731/54f403e2-a4c9-4af7-a13e-38058c6f6d87)
 
-A simple component that captures React components as images with ease, supporting PNG, JPEG, SVG, and more. Built on top of [react-to-image](https://github.com/hugocxl/react-to-image).
+<div align="center" style="padding-top: 20px">
+A simple component that captures React components as images with ease, supporting PNG, JPEG, SVG, and more. Built on top of <a href="https://github.com/hugocxl/react-to-image" target="_blank"> react-to-image</a>
+</div>
+
+
+> [!TIP]
+> The banner above was generated with this component. See [example](https://github.com/aidrecabrera/react-component-to-image-example) :)
+
+
 
 ## Installation
 
