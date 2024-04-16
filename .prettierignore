@@ -1,0 +1,18 @@
+# Don't format these
+build
+coverage
+.vscode
+.output
+node_modules
+dist
+docs
+# Default
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+**/.git
+**/.svn
+**/.hg
+**/dist
+**/docs

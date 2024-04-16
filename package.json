@@ -1,0 +1,43 @@
+{
+  "name": "react-component-to-image",
+  "version": "1.0.0",
+  "description": "Capture React components as images with PNG, JPEG, SVG support. Based on react-to-image.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && vite build",
+    "test": "vitest",
+    "lint": "eslint src --ext .ts,.tsx",
+    "prepublish": "npm run build"
+  },
+  "dependencies": {
+    "@hugocxl/react-to-image": "^0.0.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "@typescript-eslint/parser": "^7.2.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "prettier": "3.2.5",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/aidrecabrera/react-component-to-image"
+  },
+  "keywords": [
+    "component",
+    "react",
+    "image",
+    "react-to-image"
+  ],
+  "author": "Aidre Cabrera",
+  "license": "ISC"
+}
