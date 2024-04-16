@@ -1,6 +1,13 @@
 ![image](https://github.com/aidrecabrera/react-component-to-image/assets/61798731/54f403e2-a4c9-4af7-a13e-38058c6f6d87)
 
 <div align="center" style="padding-top: 20px">
+
+[![NPM](https://img.shields.io/npm/dm/react-component-to-image.svg?&logo=npm)](https://www.npmjs.com/package/react-component-to-image)
+[![Version](https://img.shields.io/npm/v/react-component-to-image.svg?logo=npm)](https://www.npmjs.com/package/react-component-to-image)
+[![Size](https://img.shields.io/bundlephobia/minzip/react-component-to-image)](https://bundlephobia.com/result?p=react-component-to-image)
+[![Language](https://img.shields.io/badge/language-TypeScript-blue.svg)](https://www.typescriptlang.org)
+[![License](https://img.shields.io/github/license/hugocxl/react-to-image)](https://www.npmjs.com/package/react-component-to-image)
+ 
 A simple component that captures React components as images with ease, supporting PNG, JPEG, SVG, and more. Built on top of <a href="https://github.com/hugocxl/react-to-image" target="_blank"> react-to-image</a>
 </div>
 
@@ -218,3 +225,17 @@ function App() {
 
 export default App;
 ```
+
+## Contributing
+
+> [!NOTE]
+> I am not a perfect developer. Hence, there is more room for improvement! If you find errors or have suggestions, please open an issue or submit a pull request. Thanks!
+
+## License
+
+> [!IMPORTANT]
+> **react-component-to-image** is open-source software licensed under the MIT License © [Aidre Cabrera](https://github.com/aidrecabrera).
+
+---
+
+**That's all! 👀 [@aidrecabrera](https://aidre.codes). Hope this works better for you!**
